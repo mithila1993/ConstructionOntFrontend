@@ -1,0 +1,50 @@
+.title{
+    background-image: url("http://13.232.156.13/vacadmin/home/images/1553504662023.jpg");
+    padding: 20px;
+    color: white;
+    text-shadow: 2px 2px #000000;
+}
+
+.search-section{
+    margin: 10px;
+    background-color:rgb(214, 194, 37);
+    padding: 20px;
+    border-radius: 10px
+}
+
+.list-item{
+    margin: 10px;
+    padding: 20px;
+    background-color:rgb(225, 218, 164);
+}
+
+.list-title{
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.profile{
+    padding: 20px;
+    margin: 10px;
+    background-color:rgb(225, 218, 164);
+}
+
+.profile-title{
+    font-weight: 600;
+    font-size: 40px;
+}
+
+.profile-address{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.profile-rest{
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.profile-button{
+    margin: 5px;
+    color: white;
+}
